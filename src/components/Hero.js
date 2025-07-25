@@ -37,7 +37,7 @@ const Button = styled.button`
 export default function Hero() {
   return (
     <HeroSection id="hero">
-      <Title>HI THERE, I'M PREM KUMAR<br />SOFTWARE DEVELOPER</Title>
+      <Title><p>I&apos;m Prem Kumar</p><br />SOFTWARE DEVELOPER</Title>
       <Subtitle>Innovating Through Code and Design</Subtitle>
 
       {/* ✅ Now wrapping a <button> inside Link is okay */}
